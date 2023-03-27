@@ -7,8 +7,6 @@ Click the link below to see the app. <br/>
 [Task Manager API]() <br/>
 [Store API]() <br/>
 
-# Preview
-![React Game Collections - Preview](./src/images/preview.png)
 
 # Technologies
   * JavaScript
