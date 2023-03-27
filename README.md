@@ -1,4 +1,4 @@
-# React Game Collections
+# Node.js Mini App Collections
 
 Hello! Welcome to my Node.js playground! Here, I make small Node.js apps in order to practise and learn Node.js and MongoDB!
 
